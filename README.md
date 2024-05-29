@@ -1,7 +1,9 @@
-#Data Scientist
+# Data Scientist
 
-###Education
-Computer Science, BS
-Artificial Intelligence, MS
+### Education
+-Computer Science, BS  
+-Artificial Intelligence, MS  
 
-###Projects
+### Work Experience
+
+### Projects
